@@ -3,7 +3,7 @@ module awstk
 go 1.24.2
 
 require (
-	github.com/aws/aws-sdk-go-v2 v1.38.0
+	github.com/aws/aws-sdk-go-v2 v1.38.1
 	github.com/aws/aws-sdk-go-v2/config v1.29.18
 	github.com/aws/aws-sdk-go-v2/service/applicationautoscaling v1.36.5
 	github.com/aws/aws-sdk-go-v2/service/cloudformation v1.60.3
